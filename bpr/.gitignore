@@ -1,0 +1,8 @@
+
+*.png
+more_results
+more_results_HR
+old_results
+results
+results*/
+nohup.out

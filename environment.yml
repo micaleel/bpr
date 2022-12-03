@@ -1,0 +1,26 @@
+name: bpr
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+  - pytorch
+dependencies:
+  - jupyterlab=3
+  - matplotlib
+  - numpy
+  - pandas
+  - ipywidgets
+  - pyarrow 
+  - python=3.8
+  - pytorch
+  - scikit-learn
+  - pip:
+    - black
+    - blackcellmagic
+    - click
+    - cython
+    - pympler
+    - pyyaml
+    - seaborn
+    - tqdm
+    - wandb

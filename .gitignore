@@ -1,0 +1,12 @@
+
+*.pyc
+bpr/.ipynb_checkpoints/
+bpr.egg-info/
+.ipynb_checkpoints/
+*.feather
+data/amazon/
+data/citeulike/
+data/citeulike/
+data/gowalla/
+data/lastfm/
+data/mind/
